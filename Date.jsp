@@ -4,14 +4,14 @@
 <%@ page import="java.io.*" %> 
 <html> 
     <head> 
-        <title>Create table in mysql database using jsp</title>
+        <title>Create table in mysql database using jsp By Yariv</title>
     </head> 
     <body bgcolor="#ffffcc">
         <form action="show_data.jsp" method="get">
             <TABLE style="background-color: #ECE5B6;" WIDTH="50%">
                 <tr width="100%">
-                    <td >Student Name</td>
-                    <td ><input type="text" name="name"></td>
+                    <td >Student Name AAAAAAAAaaaAAAAAAAAAAAAaaaA</td>
+                    <td ><input type="text" name="Name"></td>
                 </tr>
                 <tr>
                     <td width="20%">Stream</td>
